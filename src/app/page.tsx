@@ -5,10 +5,11 @@ export default function HomePage() {
         {/* Hero Section */}
         <div className="mb-10">
           <h1 className="text-2xl md:text-3xl font-bold text-gray-900 mb-3">
-            Welcome to the <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-purple-600">MERN Full-Stack App</span>
+            Welcome to the <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-purple-600">StockAstic
+</span>
           </h1>
           <p className="text-base md:text-lg text-gray-700 mb-6">
-            A modern, production-ready web application built with MongoDB, Next.js, React, and Node.js.
+            Predict tomorrow’s stock prices using today’s data.
           </p>
           <div className="flex flex-col md:flex-row items-center justify-center gap-3">
             <a

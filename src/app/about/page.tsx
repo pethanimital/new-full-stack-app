@@ -146,7 +146,7 @@ export default function AboutPage() {
 
         {/* Footer */}
         <div className="text-center mt-12 text-gray-400 text-xs">
-          &copy; {new Date().getFullYear()} MERN Full-Stack Tutorial &mdash; Built with Next.js, React, MongoDB, and Tailwind CSS.
+          &copy; {new Date().getFullYear()} StockAstic &mdash; Built with Next.js, React, MongoDB, and Tailwind CSS.
         </div>
       </div>
     </div>
