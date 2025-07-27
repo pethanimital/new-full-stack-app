@@ -1,0 +1,68 @@
+{
+	"folders": [
+		{
+			"path": "../../../.next"
+		},
+		{
+			"path": "../../../node_modules"
+		},
+		{
+			"path": "../../../public"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../about"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "users"
+		},
+		{
+			"path": "../api"
+		},
+		{
+			"path": "../dashboard"
+		},
+		{
+			"path": "../login"
+		},
+		{
+			"path": "../posts"
+		},
+		{
+			"path": "../profile"
+		},
+		{
+			"path": "../register"
+		},
+		{
+			"path": "../reset"
+		},
+		{
+			"path": "../users"
+		},
+		{
+			"path": "../settings"
+		},
+		{
+			"path": "../../components"
+		},
+		{
+			"path": "../../lib"
+		},
+		{
+			"path": "../../types"
+		},
+		{
+			"path": "../../models"
+		}
+	],
+	"settings": {}
+}
